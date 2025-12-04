@@ -243,19 +243,3 @@ El GDS es el orquestador que:
 Los ejemplos de request/response JSON se encuentran en la carpeta `dto/` del repositorio. Ahí encontrarás plantillas para cada endpoint (`local/`, `provider/`) y las DTOs usadas por el GDS.
 
 Ver `dto/README.md` para más detalles.
-
----
-
-## Contribuciones y contacto
-
-Si quieres contribuir a este documento, abre un issue o PR en este repositorio con los detalles de la propuesta. Para consultas técnicas contacta a `devops@example.com` (placeholder).
-
----
-
-## Licencia
-
-Este repositorio usa licencia MIT (o la que prefieran). Añade aquí el texto de la licencia según corresponda.
-
----
-
-_Documento generado para proporcionar una especificación clara y coherente de las interfaces de integración para el Laboratorio GDS._
