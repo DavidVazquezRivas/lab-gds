@@ -8,7 +8,6 @@ Este documento define los contratos de interfaz (API Contracts) para el sistema 
 
 - [Resumen](#resumen)
 - [Normas generales](#normas-generales)
-- [Definiciones compartidas](#definiciones-compartidas)
 - [DTOs (Objetos de Datos)](#dtos-objetos-de-datos)
   - [ClientDTO](#clientdto)
   - [RoomRequestDTO](#roomrequestdto)
@@ -38,12 +37,6 @@ Esta especificación describe los endpoints y los modelos de datos para integrar
 - Content-Type: application/json
 
 ---
-
-## Definiciones compartidas
-
-Las definiciones y enumeraciones compartidas (tipos de habitación, estados de reservas/ofertas, mapeos de campos, etc.) están disponibles en `docs/shared-definitions.md`.
-
-Recomendada su lectura antes de implementar integraciones entre Local / Provider / GDS.
 
 ## DTOs (Objetos de Datos)
 

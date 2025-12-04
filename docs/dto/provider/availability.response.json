@@ -1,0 +1,12 @@
+{
+  "source": "PROVIDER_XYZ",
+  "offers": [
+    {
+      "provider_hotel_code": "PRV123",
+      "description": "Hotel Externo - Hab. Doble",
+      "room_category": "DOBLE",
+      "is_available": true,
+      "rate": 120.00
+    }
+  ]
+}

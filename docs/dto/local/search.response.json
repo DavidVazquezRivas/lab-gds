@@ -1,0 +1,12 @@
+{
+  "source": "LOCAL",
+  "results": [
+    {
+      "hotel_id": 123,
+      "hotel_name": "Hotel Interno",
+      "room_type": "DOBLE",
+      "available_count": 5,
+      "price_per_night": 89.90
+    }
+  ]
+}

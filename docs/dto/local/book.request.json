@@ -1,0 +1,11 @@
+{
+  "hotel_id": 123,
+  "check_in_date": "2025-12-10",
+  "room_type": "DOBLE",
+  "client": {
+    "first_name": "Juan",
+    "last_name": "Pérez",
+    "email": "juan.perez@example.com",
+    "phone": "+34123456789"
+  }
+}

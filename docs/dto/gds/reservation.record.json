@@ -1,0 +1,13 @@
+{
+  "id_reserva": 1001,
+  "datos_cliente": {
+    "first_name": "Ana",
+    "last_name": "García",
+    "email": "ana@example.com",
+    "phone": "+34111222333"
+  },
+  "hotel": "PRV123",
+  "hotel_reserva_id": "PRV-BOOK-0001",
+  "source": "PROVIDER_XYZ",
+  "created_at": "2025-12-01T12:34:56Z"
+}

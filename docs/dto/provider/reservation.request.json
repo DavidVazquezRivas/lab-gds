@@ -1,0 +1,14 @@
+{
+  "provider_hotel_code": "PRV123",
+  "dates": {
+    "start": "2025-12-10",
+    "end": "2025-12-12"
+  },
+  "room_category": "DOBLE",
+  "guest_details": {
+    "first_name": "Ana",
+    "last_name": "García",
+    "email": "ana@example.com",
+    "phone": "+34111222333"
+  }
+}
